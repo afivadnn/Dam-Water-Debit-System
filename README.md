@@ -24,4 +24,7 @@ Sistem terintegrasi (*End-to-End*) untuk mendigitalisasi proses pemantauan debit
 * `/mobile-app` : Source code untuk aplikasi Android (Kotlin).
 
 ## 📸 Screenshot
-*(Ganti teks ini dengan link gambar screenshot web dan aplikasi Anda nantinya)*
+<img width="570" height="817" alt="Picture1" src="https://github.com/user-attachments/assets/ac447c50-8ee9-4f77-9a32-b541e5a6793b" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-30 082623" src="https://github.com/user-attachments/assets/59d13988-d4c9-4827-a320-e6398f3815b7" />
+
+
