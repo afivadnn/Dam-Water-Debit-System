@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#E3E3E3</color> <color name="white">#191C1E</color> <color name="colorPrimary">#AECBFA</color>
+    <color name="colorPrimaryVariant">#01579B</color>
+    <color name="colorOnPrimary">#003355</color>
+
+    <color name="backgroundColor">#191C1E</color>
+    <color name="surfaceColor">#25282A</color> <color name="textColorPrimary">#E1E2E6</color>   <color name="textColorSecondary">#C4C7C5</color>  <color name="iconTint">#AECBFA</color>            <color name="pagiColor">#2A3C4D</color>
+    <color name="pagiText">#D1E4F5</color>
+
+    <color name="siangColor">#2D4133</color>
+    <color name="siangText">#C8E6C9</color>
+
+    <color name="soreColor">#4A3B2C</color>
+    <color name="soreText">#FFCC80</color>
+</resources>

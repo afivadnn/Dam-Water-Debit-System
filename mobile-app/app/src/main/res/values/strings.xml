@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Debit Air</string>
+    <string name="masuk_aplikasi">MASUK APLIKASI</string>
+    <string name="sistem_monitoring_ndebit_air">Sistem Monitoring\nDebit Air</string>
+</resources>
